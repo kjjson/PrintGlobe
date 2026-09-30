@@ -1,0 +1,40 @@
+{
+  "id": "d97e00a6-d37d-40cb-962f-e96f64f46cf5",
+  "name": "PrintGlobe Squire",
+  "publisher": "Squire",
+  "version": "2.0.0.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+    "id": "10cb69d9-bc8a-4d27-970a-9e110e9db2a5",
+  
+    "name": "_Exclude_APIV2_",
+    "publisher": "Microsoft",
+    "version": "22.0.0.0"
+  }
+],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 55000,
+      "to": 55599
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
